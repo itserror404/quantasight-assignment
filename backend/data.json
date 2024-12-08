@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding Machine Learning",
+        "description": "A comprehensive guide to machine learning fundamentals.",
+        "category": "Articles",
+        "author": "John Doe",
+        "published_date": "2020-08-01",
+        "url": "https://example.com/machine-learning"
+    },
+    {
+        "id": 2,
+        "title": "Clinical Trials in Oncology",
+        "description": "Overview of recent clinical trials in oncology.",
+        "category": "Reports",
+        "author": "Jane Smith",
+        "published_date": "2021-05-15",
+        "url": "https://example.com/oncology-trials"
+    },
+    {
+        "id": 3,
+        "title": "Profile of Dr. Alice Johnson",
+        "description": "Key opinion leader in immunology and clinical research.",
+        "category": "Profiles",
+        "organization": "Global Health Institute",
+        "location": "New York, USA",
+        "url": "https://example.com/alice-johnson"
+    },
+    {
+        "id": 4,
+        "title": "Advances in Renewable Energy",
+        "description": "Innovations in renewable energy technologies.",
+        "category": "Articles",
+        "author": "Mike Green",
+        "published_date": "2019-11-22",
+        "url": "https://example.com/renewable-energy"
+    },
+    {
+        "id": 5,
+        "title": "Impact of AI in Medicine",
+        "description": "How artificial intelligence is transforming healthcare.",
+        "category": "Reports",
+        "author": "Sarah Lee",
+        "published_date": "2022-01-10",
+        "url": "https://example.com/ai-medicine"
+    },
+    {
+        "id": 6,
+        "title": "Profile of Dr. Richard Kim",
+        "description": "Specialist in cardiology and cardiovascular research.",
+        "category": "Profiles",
+        "organization": "Heart Institute",
+        "location": "London, UK",
+        "url": "https://example.com/richard-kim"
+    },
+    {
+        "id": 7,
+        "title": "Big Data in Healthcare",
+        "description": "Analyzing how big data is reshaping healthcare systems.",
+        "category": "Articles",
+        "author": "Linda White",
+        "published_date": "2018-07-14",
+        "url": "https://example.com/big-data-healthcare"
+    },
+    {
+        "id": 8,
+        "title": "Clinical Trials for Diabetes",
+        "description": "Latest advancements in diabetes treatments through clinical trials.",
+        "category": "Reports",
+        "author": "Tom Harris",
+        "published_date": "2020-11-25",
+        "url": "https://example.com/diabetes-trials"
+    },
+    {
+        "id": 9,
+        "title": "Profile of Dr. Clara Singh",
+        "description": "Pioneer in neuroscience and brain research.",
+        "category": "Profiles",
+        "organization": "Brain Science Center",
+        "location": "San Francisco, USA",
+        "url": "https://example.com/clara-singh"
+    },
+    {
+        "id": 10,
+        "title": "Exploring Renewable Energy Sources",
+        "description": "Diverse sources of renewable energy and their applications.",
+        "category": "Articles",
+        "author": "James Brown",
+        "published_date": "2021-04-10",
+        "url": "https://example.com/renewable-energy-sources"
+    },
+    {
+        "id": 11,
+        "title": "Impact of AI in Business",
+        "description": "Understanding the role of AI in transforming businesses.",
+        "category": "Articles",
+        "author": "Emily Green",
+        "published_date": "2022-02-20",
+        "url": "https://example.com/ai-business"
+    },
+    {
+        "id": 12,
+        "title": "Clinical Trials for Cancer",
+        "description": "A review of clinical trials targeting cancer treatment.",
+        "category": "Reports",
+        "author": "Michael Carter",
+        "published_date": "2019-06-30",
+        "url": "https://example.com/cancer-trials"
+    },
+    {
+        "id": 13,
+        "title": "Profile of Dr. Nathan Cho",
+        "description": "Leading researcher in pediatric medicine.",
+        "category": "Profiles",
+        "organization": "Children's Health Institute",
+        "location": "Sydney, Australia",
+        "url": "https://example.com/nathan-cho"
+    },
+    {
+        "id": 14,
+        "title": "Breakthroughs in Biotechnology",
+        "description": "Recent breakthroughs in biotechnology and their implications.",
+        "category": "Articles",
+        "author": "Sophia Adams",
+        "published_date": "2020-03-05",
+        "url": "https://example.com/biotechnology"
+    },
+    {
+        "id": 15,
+        "title": "Clinical Trials for Alzheimer's Disease",
+        "description": "Progress in Alzheimer's research through clinical trials.",
+        "category": "Reports",
+        "author": "David Kim",
+        "published_date": "2021-12-01",
+        "url": "https://example.com/alzheimers-trials"
+    },
+    {
+        "id": 16,
+        "title": "Profile of Dr. Lisa Chan",
+        "description": "Renowned specialist in infectious diseases.",
+        "category": "Profiles",
+        "organization": "World Health Organization",
+        "location": "Geneva, Switzerland",
+        "url": "https://example.com/lisa-chan"
+    },
+    {
+        "id": 17,
+        "title": "Advances in Renewable Energy Storage",
+        "description": "New technologies in renewable energy storage solutions.",
+        "category": "Articles",
+        "author": "Oliver Zhang",
+        "published_date": "2022-05-08",
+        "url": "https://example.com/energy-storage"
+    },
+    {
+        "id": 18,
+        "title": "Impact of Blockchain in Healthcare",
+        "description": "Analyzing blockchain's role in enhancing healthcare transparency.",
+        "category": "Articles",
+        "author": "Anna Taylor",
+        "published_date": "2019-09-21",
+        "url": "https://example.com/blockchain-healthcare"
+    },
+    {
+        "id": 19,
+        "title": "Clinical Trials for Cardiovascular Health",
+        "description": "Research into improving cardiovascular health through trials.",
+        "category": "Reports",
+        "author": "Samuel Wilson",
+        "published_date": "2020-02-15",
+        "url": "https://example.com/cardiovascular-trials"
+    },
+    {
+        "id": 20,
+        "title": "Profile of Dr. Ethan Carter",
+        "description": "Expert in environmental health and public policy.",
+        "category": "Profiles",
+        "organization": "Environmental Health Institute",
+        "location": "Toronto, Canada",
+        "url": "https://example.com/ethan-carter"
+    }
+]
